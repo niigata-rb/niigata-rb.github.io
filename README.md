@@ -1,5 +1,4 @@
-[![Gitter chat](https://badges.gitter.im/niigata-rb/niigata-rb.github.io.png)](https://gitter.im/niigata-rb/niigata-rb.github.io)
-
+[![Gitter chat](https://badges.gitter.im/niigata-rb.png)](https://gitter.im/niigata-rb)
 
 niigata-rb.githu.io
 ===================
